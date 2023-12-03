@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # Load model
-model = pickle.load(open('prediksi_jantung.pkl', 'rb'))
+model = pickle.load(open('prediksi_kematian.pkl', 'rb'))
 
 # Function to preprocess input data
 def preprocess_input(data):
