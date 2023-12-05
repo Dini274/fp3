@@ -3,3 +3,4 @@ pandas
 scikit-learn
 streamlit==1.28.2
 matplotlib==3.5.2
+pickle
